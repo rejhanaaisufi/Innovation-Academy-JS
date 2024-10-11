@@ -1,8 +1,8 @@
-let firstName = "Rejhana";    
-let studying = true;         
-let students = 37;
-let nullOne = null;
-let study;
+// let firstName = "Rejhana";    
+// let studying = true;         
+// let students = 37;
+// let nullOne = null;
+// let study;
 
 
 
